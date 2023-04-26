@@ -91,7 +91,6 @@ const Modal: React.FC<ModalProps> = ({
           {/*content*/}
           <div
             className={`
-              translate
               duration-300
               h-full
               ${showModal ? "translate-y-0" : "translate-y-full"}
@@ -100,7 +99,6 @@ const Modal: React.FC<ModalProps> = ({
           >
             <div
               className="
-                translate
                 h-full
                 md:h-auto
                 border-0
