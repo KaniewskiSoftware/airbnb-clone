@@ -7,3 +7,25 @@ body,
 :root {
   height: 100%;
 }
+
+.leaflet-botton,
+.leaflet-control,
+.leaflet-pane,
+.leaflet-top {
+  z-index: 0 !important;
+}
+
+.counter-button {
+  @apply w-10
+  h-10
+  rounded-full
+  border-[1px]
+  border-neutral-400
+  flex
+  items-center
+  justify-center
+  text-neutral-600
+  cursor-pointer
+  hover:opacity-80
+  transition;
+}
