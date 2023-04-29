@@ -28,6 +28,7 @@ const Button: React.FC<ButtonProps> = ({
             disabled:opacity-70
             disabled:cursor-not-allowed
             rounded-lg
+            px-6
             hover:opacity-80
             transition
             w-full
