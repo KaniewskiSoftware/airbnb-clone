@@ -1,6 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# [Airbnb Clone](travel-house-renting.vercel.app/)
+
+## Description
+
+Airbnb clone developed using next.js with the new app directory for routing, React, Tailwind, PrIsma, MongoDB, NextAuth.
+
+## Technologies
+
+- Next13
+- React
+- TypeScript
+- Prisma
+- MongoDB
+- TailwindCSS
+- Zustand
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
